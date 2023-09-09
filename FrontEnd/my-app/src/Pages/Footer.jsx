@@ -45,7 +45,7 @@ export const Footer = () => {
                 <p>Store Locator</p>
                 <p>Cancellation & Return</p>
                 <p>Shipping & Delivery</p>
-                <p>Sell on Nykaa</p>
+                <p>Sell on Lumina</p>
             </div>
             <div>
                 <h3>Inspire Me</h3>
